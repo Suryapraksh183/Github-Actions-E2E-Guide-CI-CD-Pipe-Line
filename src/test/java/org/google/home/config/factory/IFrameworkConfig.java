@@ -9,9 +9,6 @@ import org.aeonbits.owner.Config.Sources;
 @Sources({ "system:env" })
 public interface IFrameworkConfig extends Config {
 
-	@Key("HOMEPAGE_VALIDATION")
-	String homePageValidation();
-
 	@Key("ENVIRONEMNT")
 	String environemnt();
 
