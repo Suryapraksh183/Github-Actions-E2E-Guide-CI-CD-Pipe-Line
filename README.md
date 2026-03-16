@@ -1,5 +1,11 @@
 # Java + Selenium CI/CD Pipeline with GitHub Actions  
 A hands-on guide to setting up automated testing with GitHub Actions, including real screenshots at every step for easy learning.
+### Suriyaprakash
+
+**AI-First Full Stack SDET & Mentor**
+
+🔗 LinkedIn: [www.linkedin.com/in/suriyaprakash-r](http://www.linkedin.com/in/suriyaprakash-r)
+📚 Interview Resources & PDFs: https://topmate.io/automation_made_easy/
 
 ---
 
